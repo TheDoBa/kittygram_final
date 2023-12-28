@@ -24,3 +24,22 @@ dockerhub_username: ваш_логин_на_докерхабе
 - Проект Kittygram доступен по доменному имени, указанному в `tests.yml`.
 - Пуш в ветку main запускает тестирование и деплой Kittygram, а после успешного деплоя вам приходит сообщение в телеграм.
 - В корне проекта есть файл `kittygram_workflow.yml`.
+
+
+# Проект "kittygram_final"
+Реализация соцеальной сети. Соц сеть для фото котиков. 
+
+## Технологический стек:
+- [Python 3.9.10](https://docs.python.org/release/3.9.10/)
+- [Django 3.2](https://docs.djangoproject.com/en/3.2/)
+- [Django REST Framework 3.12.4](https://www.django-rest-framework.org/topics/documenting-your-api/)
+- [Pytest 6.2.4](https://docs.pytest.org/en/6.2.x/)
+- [SQLite](https://www.sqlite.org/docs.html)
+- [gunicorn](https://pypi.org/project/gunicorn/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
+
+## Комманда:
+
+[GitHub](https://github.com/yandex-praktikum) | Автор проекта - Yandex Practicum  
+
+[GitHub](https://github.com/TheDoBa) | Разработчик - Vladimir Avizhen
