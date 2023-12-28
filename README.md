@@ -34,7 +34,6 @@ dockerhub_username: ваш_логин_на_докерхабе
 - [Django 3.2](https://docs.djangoproject.com/en/3.2/)
 - [Django REST Framework 3.12.4](https://www.django-rest-framework.org/topics/documenting-your-api/)
 - [Pytest 6.2.4](https://docs.pytest.org/en/6.2.x/)
-- [SQLite](https://www.sqlite.org/docs.html)
 - [gunicorn](https://pypi.org/project/gunicorn/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 
