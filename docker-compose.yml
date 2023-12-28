@@ -23,7 +23,6 @@ services:
     command: cp -r /app/build/. /static/
     volumes:
       - static:/static
-      - media:/media
   gateway:
     build: ./nginx/
     env_file: .env
@@ -31,3 +30,4 @@ services:
       - 9000:80
     volumes:
       - static:/static
+      - media:/media
